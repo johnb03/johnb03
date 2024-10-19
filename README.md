@@ -7,7 +7,7 @@
 </div>
 ============================
 
- ![Logo banner](/img/Jonh%20Berroa.jpg)
+ ![Logo banner](/img/Jonh%20Berroa.png)
 
 
 * 🌍  Soy de Republica Dominicana
