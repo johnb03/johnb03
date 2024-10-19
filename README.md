@@ -2,8 +2,7 @@
 # Hola Soy John Berroa
 ### Autodicacta front-end developer
 
- <img src="https://imgur.com/rFmbHl"  >
-
+ ![Logo banner](/img/Jonh%20Berroa.png)
 
 
 
